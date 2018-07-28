@@ -5,4 +5,4 @@ git is free software distrubuted under the GPL.
 
 version 3
 
-git tracks changes.
+git tracks changes of files.
